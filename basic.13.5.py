@@ -9,3 +9,6 @@ Y = 30
 for i in array_Y:
     if i > Y:
         print(i)
+
+
+        #
