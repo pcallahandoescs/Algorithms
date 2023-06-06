@@ -23,3 +23,6 @@ avg /= len(the_array)
 print(min)
 print(max)
 print(avg)
+
+
+##
